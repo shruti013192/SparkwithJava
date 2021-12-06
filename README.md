@@ -1,2 +1,1 @@
-# SparkwithJava
-Practice program 
+# JavaAssignments
